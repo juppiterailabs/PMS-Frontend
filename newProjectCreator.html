@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="figma.css">
+  </head>
+  <body>
+
+<div class="topnav">
+  <a onclick="gotoDashboard()">Work Management System</a>
+  <div style="text-align: right" >
+  <a href="./loginPage.html">LogOut</a>
+  </div>
+</div>
+
+<div class="w3-sidebar w3-bar-block w3-light-grey w3-card-2" style="width:15%">
+  <a onclick="gotoDashboard()" class="w3-bar-item w3-button">Dashboard</a> 
+
+  <div class="w3-dropdown-hover">
+    <button class="w3-button">Accounts
+      <i class="fa fa-caret-down"></i>
+    </button>
+
+    <div class="w3-dropdown-content w3-bar-block">
+      <a onclick="gotoAddAccounts()" class="w3-bar-item w3-button">Add Empolyee</a>
+      <a onclick="gotoViewAccounts()" class="w3-bar-item w3-button">View Employee</a>
+    </div>
+
+  </div> 
+</div>
+
+<div style="margin-left:30%">
+
+
+<!-- Main content area --->
+<div class="w3-container">
+
+  <div id="projectContainer">
+
+    <div class="grid-item-projectView" id="vertical-split">
+      <div id="topBarLeft">
+        <div id="projectStatusDropdown">
+          <div class="w3-dropdown-hover">
+            <button id="project-current-status" class="project-status-btn" >In Progress
+              <i class="fa fa-caret-down"></i>
+            </button>
+
+            <div id="projectStatusList" class="w3-dropdown-content w3-bar-block">
+              <a onclick="changeStatus(event)" id="in-progress" class="w3-bar-item w3-button">In Progress</a>
+              <a onclick="changeStatus(event)" id="not-started" class="w3-bar-item w3-button">Not Started</a>
+              <a onclick="changeStatus(event)" id="completed" class="w3-bar-item w3-button">Completed</a>
+            </div>
+
+          </div> 
+        </div>
+        <div id="projectAssigneeFilterDropdown">
+        </div>
+      </div>
+
+        <div id="topBarRight">
+          <div id="projectTimes">
+            CREATED:
+            <span id="displayCreationDate">
+            </span>
+              DUE DATE:
+            <span id="displayDueDate">
+            </span>
+          </div>
+        </div>
+
+    </div>
+
+    <div class="grid-item-projectView" id="vertical-split">
+      <div id="projectInfoArea">
+        <input type="text" id="projectName" name="projectName" placeholder="Building the Project">
+      <div>
+
+      <div id="subtask-progress-container">
+        <div>
+          subtask: 
+        </div >
+        <div id="progress-bar-container">
+          <div class="w3-grey" style="height:24px;width:80%;"></div>
+        </div>
+      </div>
+
+      <div>
+        <div> 
+          <span id="numSubtask"></span> Subtasks
+          <div id="subtask-list">
+              <div id="subtask-detail-container">
+                <div id="subtask-progress-bar-container">
+                  <div class="w3-grey" style="height:24px;width:80%;"></div>
+                </div>
+                <div id="subtask-name">
+                  Name of the subtask
+                </div>
+                <div id="subtask-asignee-list">
+                    <div>a</div>
+                      <div class="w3-dropdown-hover">
+                        <button class="w3-button">+
+                          <i class="fa fa-caret-down"></i>
+                        </button>
+
+                        <div class="w3-dropdown-content w3-bar-block">
+                          <a onclick="assignCurrentEmployeeToSubtask()" class="w3-bar-item w3-button">Samantha </a>
+                          <a onclick="assignCurrentEmployeeToSubtask()" class="w3-bar-item w3-button">Nathen_Frisk</a>
+                        </div>
+                      </div> 
+                </div>
+              </div>
+              <div id="subtask-detail-container">
+                <div id="subtask-progress-bar-container">
+                  <div class="w3-grey" style="height:24px;width:80%;"></div>
+                </div>
+                <div id="subtask-name">
+                  Name of the subtask
+                </div>
+                <div id="subtask-asignee-list">
+                    <div>a</div>
+                    <div>b</div>
+                    <div class="w3-dropdown-hover">
+                      <button class="w3-button">+
+                        <i class="fa fa-caret-down"></i>
+                      </button>
+
+                      <div class="w3-dropdown-content w3-bar-block">
+                        <a onclick="assignCurrentEmployeeToSubtask()" class="w3-bar-item w3-button">Samantha </a>
+                        <a onclick="assignCurrentEmployeeToSubtask()" class="w3-bar-item w3-button">Nathen_Frisk</a>
+                      </div>
+                    </div> 
+                </div>
+              </div>
+          </div>
+        </div>
+      </div>
+
+        </div>
+      </div>
+      <div id="projectCommentsArea" style="padding-left: 20px;">
+        <div id="task-comments-list">
+          <ul>
+            <li>
+              <div id="comment-container">
+                <div id="comment-time">
+                  Nov 1 at 6:30pm
+                </div>
+                <div id="comment-box">
+                  <div id="commenter-logo">
+                    A
+                  </div>
+                  <div id="comment-content">
+                    sldfdsf sldkfjsdfkj
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li>
+              comment 2
+            </li>
+            <li>
+              comment 3
+            </li>
+            <li>
+              comment 1
+            </li>
+            <li>
+              comment 2
+            </li>
+            <li>
+              comment 3
+            </li>
+            <li>
+              comment 1
+            </li>
+            <li>
+              comment 2
+            </li>
+            <li>
+              comment 3
+            </li>
+            <li>
+              comment 1
+            </li>
+            <li>
+              comment 2
+            </li>
+            <li>
+              comment 3
+            </li>
+          </ul>
+
+        </div>
+        <div>
+          <input type="text" id="projectInputComment" name="projectName" onkeydown="addNewComment(this)" placeholder="comment or type '/' for commands">
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+    <script src="newProjectCreator.js"></script>
+</html>

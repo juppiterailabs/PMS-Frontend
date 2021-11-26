@@ -1,0 +1,998 @@
+.mediaViewInfo {
+  --web-view-name: Desktop - 7;
+  --web-view-id: Desktop_-_7;
+  --web-scale-on-resize: true;
+  --web-enable-deep-linking: true;
+}
+:root {
+  --web-view-ids: Desktop_-_7;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: none;
+}
+#Desktop_-_7 {
+  position: absolute;
+  width: 1837px;
+  height: 1028px;
+  background-color: rgba(255, 255, 255, 1);
+  overflow: hidden;
+  --web-view-name: Desktop - 7;
+  --web-view-id: Desktop_-_7;
+  --web-scale-on-resize: true;
+  --web-enable-deep-linking: true;
+}
+@keyframes {
+}
+@keyframes {
+}
+@keyframes {
+}
+@keyframes {
+}
+#Group_9 {
+  position: absolute;
+  width: 1837px;
+  height: 141px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+  --web-animation: fadein undefineds undefined;
+  --web-action-type: page;
+  --web-action-target: Desktop___1.html;
+  cursor: pointer;
+}
+#Rectangle_1 {
+  fill: rgba(255, 248, 248, 1);
+}
+.Rectangle_1 {
+  filter: drop-shadow(0px 6px 8px rgba(0, 0, 0, 0.251));
+  position: absolute;
+  overflow: visible;
+  width: 1861px;
+  height: 165px;
+  left: 0px;
+  top: 0px;
+}
+#Polygon_9 {
+  fill: rgba(107, 106, 106, 1);
+}
+.Polygon_9 {
+  overflow: visible;
+  position: absolute;
+  width: 15.308px;
+  height: 12px;
+  transform: translate(0px, 0px) matrix(1, 0, 0, 1, 1738.7715, 64)
+    rotate(180deg);
+  transform-origin: center;
+  left: 0px;
+  top: 0px;
+}
+#Work_Management_System {
+  left: 59.958px;
+  top: 37px;
+  position: absolute;
+  overflow: visible;
+  width: 460.25px;
+  height: 67px;
+  text-align: left;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  color: rgba(0, 0, 0, 1);
+}
+#Joseph {
+  left: 1653px;
+  top: 56px;
+  position: absolute;
+  overflow: hidden;
+  width: 140.051px;
+  height: 28px;
+  text-align: left;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  color: rgba(107, 106, 106, 1);
+}
+#Group_8 {
+  position: absolute;
+  width: 254px;
+  height: 887px;
+  left: 0px;
+  top: 141px;
+  overflow: visible;
+}
+#Rectangle_2 {
+  fill: rgba(255, 255, 255, 1);
+}
+.Rectangle_2 {
+  filter: drop-shadow(4px 0px 8px rgba(0, 0, 0, 0.251));
+  position: absolute;
+  overflow: visible;
+  width: 278px;
+  height: 911px;
+  left: 0px;
+  top: 0px;
+}
+#Rectangle_4 {
+  fill: rgba(4, 178, 168, 1);
+}
+.Rectangle_4 {
+  position: absolute;
+  overflow: visible;
+  width: 238px;
+  height: 51.51px;
+  left: 8px;
+  top: 14.423px;
+}
+#Rectangle_7 {
+  fill: rgba(255, 255, 255, 1);
+}
+.Rectangle_7 {
+  position: absolute;
+  overflow: visible;
+  width: 238px;
+  height: 51.51px;
+  left: 8px;
+  top: 66px;
+}
+#Rectangle_8 {
+  fill: rgba(255, 255, 255, 1);
+}
+.Rectangle_8 {
+  position: absolute;
+  overflow: visible;
+  width: 238px;
+  height: 51.51px;
+  left: 8px;
+  top: 224.583px;
+}
+#Dashboard {
+  left: 22px;
+  top: 29.876px;
+  position: absolute;
+  overflow: hidden;
+  width: 79px;
+  height: 19.57375144958496px;
+  text-align: left;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: rgba(255, 255, 255, 1);
+}
+#Accounts {
+  left: 22px;
+  top: 84.544px;
+  position: absolute;
+  overflow: hidden;
+  width: 69px;
+  height: 19.57375144958496px;
+  --web-animation: fadein 0s ease-out;
+  --web-action-type: page;
+  --web-action-target: Desktop___17.html;
+  cursor: pointer;
+  text-align: left;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: rgba(107, 106, 106, 1);
+}
+#Polygon_3 {
+  fill: rgba(107, 106, 106, 1);
+}
+.Polygon_3 {
+  overflow: visible;
+  position: absolute;
+  width: 9px;
+  height: 9.272px;
+  transform: translate(0px, -141px) matrix(1, 0, 0, 1, 100, 231.7247)
+    rotate(180deg);
+  transform-origin: center;
+  left: 0px;
+  top: 0px;
+}
+#Rectangle_53 {
+  fill: rgba(242, 242, 242, 1);
+}
+.Rectangle_53 {
+  position: absolute;
+  overflow: visible;
+  width: 1361px;
+  height: 643px;
+  left: 378px;
+  top: 226px;
+}
+#Ellipse_17 {
+  fill: rgba(146, 149, 241, 1);
+}
+.Ellipse_17 {
+  position: absolute;
+  overflow: visible;
+  width: 43px;
+  height: 37px;
+  left: 816px;
+  top: 574px;
+}
+#NF {
+  left: 826px;
+  top: 582px;
+  position: absolute;
+  overflow: hidden;
+  width: 24px;
+  height: 21px;
+  text-align: left;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: rgba(0, 0, 0, 1);
+}
+#Ellipse_18 {
+  fill: rgba(236, 193, 224, 1);
+}
+.Ellipse_18 {
+  position: absolute;
+  overflow: visible;
+  width: 43px;
+  height: 37px;
+  left: 851px;
+  top: 574px;
+}
+#JD {
+  left: 860px;
+  top: 582px;
+  position: absolute;
+  overflow: hidden;
+  width: 26px;
+  height: 20px;
+  text-align: left;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: rgba(0, 0, 0, 1);
+}
+#Line_4 {
+  fill: transparent;
+  stroke: rgba(193, 189, 189, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Line_4 {
+  overflow: visible;
+  position: absolute;
+  width: 1361.009px;
+  height: 1px;
+  transform: matrix(1, 0, 0, 1, 378, 291) rotate(0deg);
+  transform-origin: center;
+  left: 0px;
+  top: 0px;
+}
+#Rectangle_54 {
+  fill: rgba(254, 143, 14, 1);
+}
+.Rectangle_54 {
+  position: absolute;
+  overflow: visible;
+  width: 143px;
+  height: 30px;
+  left: 417px;
+  top: 245px;
+  --web-animation: fadein undefineds undefined;
+  --web-action-type: page;
+  --web-action-target: Desktop___8.html;
+  cursor: pointer;
+}
+#In_-_Progress {
+  left: 438px;
+  top: 250px;
+  position: absolute;
+  overflow: hidden;
+  width: 102px;
+  height: 21px;
+  text-align: left;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: rgba(255, 255, 255, 1);
+}
+#Ellipse_19 {
+  fill: rgba(146, 149, 241, 1);
+}
+.Ellipse_19 {
+  position: absolute;
+  overflow: visible;
+  width: 43px;
+  height: 37px;
+  left: 691px;
+  top: 243px;
+}
+#NF_bt {
+  left: 701px;
+  top: 251px;
+  position: absolute;
+  overflow: hidden;
+  width: 24px;
+  height: 21px;
+  text-align: left;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: rgba(0, 0, 0, 1);
+}
+#Ellipse_20 {
+  fill: rgba(231, 234, 118, 1);
+}
+.Ellipse_20 {
+  position: absolute;
+  overflow: visible;
+  width: 43px;
+  height: 37px;
+  left: 726px;
+  top: 243px;
+}
+#Ellipse_21 {
+  fill: rgba(236, 193, 224, 1);
+}
+.Ellipse_21 {
+  position: absolute;
+  overflow: visible;
+  width: 43px;
+  height: 37px;
+  left: 761px;
+  top: 243px;
+}
+#JD_bw {
+  left: 771px;
+  top: 251px;
+  position: absolute;
+  overflow: hidden;
+  width: 23px;
+  height: 21px;
+  text-align: left;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: rgba(0, 0, 0, 1);
+}
+#S {
+  left: 741px;
+  top: 241px;
+  position: absolute;
+  overflow: visible;
+  width: 21px;
+  height: 35px;
+  text-align: left;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: rgba(0, 0, 0, 1);
+}
+#Line_5 {
+  fill: transparent;
+  stroke: rgba(192, 192, 192, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Line_5 {
+  overflow: visible;
+  position: absolute;
+  width: 642px;
+  height: 1px;
+  transform: matrix(1, 0, 0, 1, 753, 548) rotate(90deg);
+  transform-origin: center;
+  left: 0px;
+  top: 0px;
+}
+#Comment_or_type__for_commands {
+  left: 1093px;
+  top: 825px;
+  position: absolute;
+  overflow: visible;
+  width: 196px;
+  height: 18px;
+  text-align: left;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  color: rgba(0, 0, 0, 1);
+}
+#CREATED_Nov_1_1240_pm {
+  opacity: 0.6;
+  left: 1091px;
+  top: 248px;
+  position: absolute;
+  overflow: visible;
+  width: 109px;
+  height: 34px;
+  text-align: left;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  color: rgba(0, 0, 0, 1);
+}
+#DUE_DATE_Fri {
+  opacity: 0.6;
+  left: 1209px;
+  top: 248px;
+  position: absolute;
+  overflow: hidden;
+  width: 113px;
+  height: 30px;
+  text-align: left;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  color: rgba(0, 0, 0, 1);
+}
+#Rectangle_55 {
+  fill: rgba(255, 251, 251, 1);
+}
+.Rectangle_55 {
+  overflow: visible;
+  position: absolute;
+  width: 528px;
+  height: 105px;
+  left: 1097px;
+  top: 693px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#John_Doe {
+  left: 1158px;
+  top: 700px;
+  position: absolute;
+  overflow: hidden;
+  width: 61px;
+  height: 16px;
+  text-align: left;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  color: rgba(0, 0, 0, 1);
+}
+#Ellipse_22 {
+  fill: rgba(236, 193, 224, 1);
+}
+.Ellipse_22 {
+  position: absolute;
+  overflow: visible;
+  width: 39px;
+  height: 33px;
+  left: 1099px;
+  top: 694px;
+}
+#JD_b {
+  left: 1111px;
+  top: 704px;
+  position: absolute;
+  overflow: hidden;
+  width: 16px;
+  height: 14px;
+  text-align: left;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  color: rgba(0, 0, 0, 1);
+}
+#Ok_Nathen__Me_and_my_team_woul {
+  left: 1158px;
+  top: 745px;
+  position: absolute;
+  overflow: visible;
+  width: 341px;
+  height: 60px;
+  text-align: left;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  color: rgba(0, 0, 0, 1);
+}
+#Line_6 {
+  opacity: 0.7;
+  fill: transparent;
+  stroke: rgba(0, 0, 0, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Line_6 {
+  overflow: visible;
+  position: absolute;
+  width: 30px;
+  height: 1px;
+  transform: matrix(1, 0, 0, 1, 1176, 263) rotate(270deg);
+  transform-origin: center;
+  left: 0px;
+  top: 0px;
+}
+#Ellipse_23 {
+  fill: rgba(4, 252, 59, 1);
+}
+.Ellipse_23 {
+  position: absolute;
+  overflow: visible;
+  width: 12px;
+  height: 11px;
+  left: 1126px;
+  top: 693px;
+}
+#Building_the_Application {
+  left: 417px;
+  top: 417px;
+  position: absolute;
+  overflow: hidden;
+  width: 426px;
+  height: 47px;
+  text-align: left;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  color: rgba(0, 0, 0, 1);
+}
+#Subtasks_cb {
+  left: 421px;
+  top: 492px;
+  position: absolute;
+  overflow: visible;
+  width: 77px;
+  height: 25px;
+  text-align: left;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  color: rgba(0, 0, 0, 1);
+}
+#Subtasks_cb {
+  left: 421px;
+  top: 492px;
+  position: absolute;
+  overflow: visible;
+  width: 77px;
+  height: 25px;
+  text-align: left;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  color: rgba(0, 0, 0, 1);
+}
+#Rectangle_56 {
+  fill: rgba(99, 244, 105, 1);
+}
+.Rectangle_56 {
+  position: absolute;
+  overflow: visible;
+  width: 404px;
+  height: 8px;
+  left: 503px;
+  top: 497px;
+}
+#Rectangle_57 {
+  fill: rgba(196, 196, 196, 1);
+}
+.Rectangle_57 {
+  position: absolute;
+  overflow: visible;
+  width: 206px;
+  height: 8px;
+  left: 701px;
+  top: 497px;
+}
+#Rectangle_58 {
+  fill: rgba(196, 196, 196, 1);
+}
+.Rectangle_58 {
+  position: absolute;
+  overflow: visible;
+  width: 156px;
+  height: 8px;
+  left: 430px;
+  top: 592px;
+}
+#n_25 {
+  left: 929px;
+  top: 492px;
+  position: absolute;
+  overflow: visible;
+  width: 47px;
+  height: 27px;
+  text-align: left;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  color: rgba(39, 155, 51, 1);
+}
+#n__Subtasks {
+  left: 424px;
+  top: 548px;
+  position: absolute;
+  overflow: visible;
+  width: 131px;
+  height: 24px;
+  text-align: left;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: rgba(0, 0, 0, 1);
+}
+#Backend_using_Nodejs {
+  left: 607px;
+  top: 583px;
+  position: absolute;
+  overflow: visible;
+  width: 239px;
+  height: 26px;
+  text-align: left;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: rgba(0, 0, 0, 1);
+}
+#Ellipse_24 {
+  fill: rgba(231, 234, 118, 1);
+}
+.Ellipse_24 {
+  position: absolute;
+  overflow: visible;
+  width: 43px;
+  height: 37px;
+  left: 816px;
+  top: 631px;
+}
+#S_cj {
+  left: 832px;
+  top: 639px;
+  position: absolute;
+  overflow: hidden;
+  width: 12px;
+  height: 21px;
+  text-align: left;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: rgba(0, 0, 0, 1);
+}
+#Rectangle_59 {
+  fill: rgba(196, 196, 196, 1);
+}
+.Rectangle_59 {
+  position: absolute;
+  overflow: visible;
+  width: 156px;
+  height: 8px;
+  left: 430px;
+  top: 649px;
+}
+#UIUX_mockups {
+  left: 607px;
+  top: 640px;
+  position: absolute;
+  overflow: visible;
+  width: 239px;
+  height: 26px;
+  text-align: left;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: rgba(0, 0, 0, 1);
+}
+#Rectangle_60 {
+  fill: rgba(254, 143, 14, 1);
+}
+.Rectangle_60 {
+  position: absolute;
+  overflow: visible;
+  width: 78px;
+  height: 8px;
+  left: 430px;
+  top: 649px;
+}
+#Ellipse_25 {
+  fill: rgba(146, 149, 241, 1);
+}
+.Ellipse_25 {
+  position: absolute;
+  overflow: visible;
+  width: 43px;
+  height: 37px;
+  left: 816px;
+  top: 688px;
+}
+#NF_co {
+  left: 826px;
+  top: 696px;
+  position: absolute;
+  overflow: hidden;
+  width: 24px;
+  height: 21px;
+  text-align: left;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: rgba(0, 0, 0, 1);
+}
+#Frontend_using_Reactjs {
+  left: 607px;
+  top: 697px;
+  position: absolute;
+  overflow: visible;
+  width: 239px;
+  height: 26px;
+  text-align: left;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: rgba(0, 0, 0, 1);
+}
+#Rectangle_61 {
+  fill: rgba(14, 254, 96, 1);
+}
+.Rectangle_61 {
+  overflow: visible;
+  position: absolute;
+  width: 156px;
+  height: 7px;
+  left: 430px;
+  top: 707px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#Ellipse_26 {
+  fill: rgba(146, 149, 241, 1);
+}
+.Ellipse_26 {
+  position: absolute;
+  overflow: visible;
+  width: 43px;
+  height: 37px;
+  left: 816px;
+  top: 740px;
+}
+#NF_cs {
+  left: 826px;
+  top: 748px;
+  position: absolute;
+  overflow: hidden;
+  width: 24px;
+  height: 21px;
+  text-align: left;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: rgba(0, 0, 0, 1);
+}
+#Make_pull_requests {
+  left: 607px;
+  top: 749px;
+  position: absolute;
+  overflow: visible;
+  width: 239px;
+  height: 26px;
+  text-align: left;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: rgba(0, 0, 0, 1);
+}
+#Rectangle_62 {
+  fill: rgba(14, 254, 96, 1);
+}
+.Rectangle_62 {
+  overflow: visible;
+  position: absolute;
+  width: 156px;
+  height: 7px;
+  left: 430px;
+  top: 759px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#Nov_1_at_640_pm {
+  opacity: 0.6;
+  left: 1097px;
+  top: 676px;
+  position: absolute;
+  overflow: hidden;
+  width: 107px;
+  height: 13px;
+  text-align: left;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  color: rgba(0, 0, 0, 1);
+}
+#Rectangle_63 {
+  fill: rgba(255, 251, 251, 1);
+}
+.Rectangle_63 {
+  overflow: visible;
+  position: absolute;
+  width: 528px;
+  height: 148px;
+  left: 1093px;
+  top: 481px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#Nathen_Frisk {
+  left: 1154px;
+  top: 492px;
+  position: absolute;
+  overflow: hidden;
+  width: 80px;
+  height: 16px;
+  text-align: left;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  color: rgba(0, 0, 0, 1);
+}
+#Ellipse_27 {
+  fill: rgba(146, 150, 241, 1);
+}
+.Ellipse_27 {
+  position: absolute;
+  overflow: visible;
+  width: 39px;
+  height: 33px;
+  left: 1097px;
+  top: 487px;
+}
+#Rectangle_64 {
+  fill: rgba(231, 154, 154, 1);
+}
+.Rectangle_64 {
+  position: absolute;
+  overflow: visible;
+  width: 7px;
+  height: 449px;
+  left: 1084px;
+  top: 349px;
+}
+#NF_c {
+  left: 1109px;
+  top: 497px;
+  position: absolute;
+  overflow: hidden;
+  width: 17px;
+  height: 14px;
+  text-align: left;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  color: rgba(0, 0, 0, 1);
+}
+#n_New_Pull_Request_Alert_https {
+  left: 1154px;
+  top: 526px;
+  position: absolute;
+  overflow: hidden;
+  width: 341px;
+  height: 60px;
+  text-align: left;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  color: rgba(0, 0, 0, 1);
+}
+#Assigned_to_John_Doe {
+  opacity: 0.6;
+  left: 1154px;
+  top: 607px;
+  position: absolute;
+  overflow: visible;
+  width: 282px;
+  height: 31px;
+  text-align: left;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  color: rgba(0, 0, 0, 1);
+}
+#Rectangle_65 {
+  fill: rgba(196, 196, 196, 1);
+}
+.Rectangle_65 {
+  position: absolute;
+  overflow: visible;
+  width: 16px;
+  height: 14px;
+  left: 1581px;
+  top: 607px;
+}
+#Resolve {
+  opacity: 0.6;
+  left: 1532px;
+  top: 607px;
+  position: absolute;
+  overflow: hidden;
+  width: 58px;
+  height: 15px;
+  text-align: left;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  color: rgba(0, 0, 0, 1);
+}
+#Ellipse_28 {
+  fill: rgba(4, 252, 59, 1);
+}
+.Ellipse_28 {
+  position: absolute;
+  overflow: visible;
+  width: 12px;
+  height: 11px;
+  left: 1124px;
+  top: 486px;
+}
+#Nov_1_at_630_pm {
+  opacity: 0.6;
+  left: 1097px;
+  top: 465px;
+  position: absolute;
+  overflow: hidden;
+  width: 107px;
+  height: 13px;
+  text-align: left;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  color: rgba(0, 0, 0, 1);
+}
+#Assigned_to {
+  left: 624px;
+  top: 254px;
+  position: absolute;
+  overflow: visible;
+  width: 108px;
+  height: 15px;
+  --web-animation: fadein undefineds undefined;
+  --web-action-type: page;
+  --web-action-target: Desktop___20.html;
+  cursor: pointer;
+  text-align: left;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 11px;
+  color: rgba(0, 0, 0, 1);
+}

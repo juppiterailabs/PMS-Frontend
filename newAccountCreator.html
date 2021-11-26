@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+		<link rel="stylesheet" href="newAccount.css">
+
+
+    <script src="index.js"></script>
+
+  </head>
+  <body>
+
+<div class="topnav">
+  <a onclick="gotoDashboard()">Work Management System</a>
+	<a href="./loginPage.html">LogOut</a>
+	</div>
+</div>
+
+<div class="w3-sidebar w3-bar-block w3-light-grey w3-card-2" style="width:15%">
+  <a onclick="gotoDashboard()" class="w3-bar-item w3-button">Dashboard</a> 
+
+  <div class="w3-dropdown-hover">
+    <button class="w3-button">Accounts
+      <i class="fa fa-caret-down"></i>
+    </button>
+
+    <div class="w3-dropdown-content w3-bar-block">
+      <a onclick="gotoAddAccounts()" class="w3-bar-item w3-button">Add Empolyee</a>
+      <a onclick="gotoViewAccounts()" class="w3-bar-item w3-button">View Employee</a>
+    </div>
+
+  </div> 
+</div>
+
+<div style="margin-left:30%">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Main content area --->
+<div class="w3-container">
+
+	<div id="Add_Employee">
+		<span>Add Employee</span>
+	</div>
+	<div id="Name">
+		<span>Name*</span>
+	</div>
+	<div id="Address">
+		<span>Address*</span>
+	</div>
+	<div id="City">
+		<span>City*</span>
+	</div>
+	<div id="Designation">
+		<span>Designation</span>
+	</div>
+	<div id="Active">
+		<span>Active*</span>
+	</div>
+	<div id="Yes">
+		<span>Yes*</span>
+	</div>
+	<div id="No">
+		<span>No*</span>
+	</div>
+	<div id="State">
+		<span>State*</span>
+	</div>
+	<div id="Zipcode">
+		<span>Zipcode*</span>
+	</div>
+	<div id="Country">
+		<span>Country*</span>
+	</div>
+	<div id="Email">
+		<span>Email*</span>
+	</div>
+	<svg class="Ellipse_5">
+		<ellipse id="Ellipse_5" rx="6.5" ry="7" cx="6.5" cy="7">
+		</ellipse>
+	</svg>
+	<svg class="Ellipse_6">
+		<ellipse id="Ellipse_6" rx="6.5" ry="7" cx="6.5" cy="7">
+		</ellipse>
+	</svg>
+	<svg class="Rectangle_56">
+		<rect id="Rectangle_56" rx="0" ry="0" x="0" y="0" width="154" height="63">
+		</rect>
+	</svg>
+	<div onclick="application.goToTargetView(event)" id="ADD">
+		<span>ADD</span>
+	</div>
+	<div id="Group_36">
+		<svg class="Input_BG">
+			<rect id="Input_BG" rx="0" ry="0" x="0" y="0" width="484" height="59">
+			</rect>
+		</svg>
+		<svg class="Rectangle_63">
+			<rect id="Rectangle_63" rx="0" ry="0" x="0" y="0" width="427.292" height="33.188">
+			</rect>
+		</svg>
+	</div>
+	<div id="Group_39">
+		<svg class="Input_BG_b">
+			<rect id="Input_BG_b" rx="0" ry="0" x="0" y="0" width="260" height="59">
+			</rect>
+		</svg>
+		<svg class="Rectangle_63_b">
+			<rect id="Rectangle_63_b" rx="0" ry="0" x="0" y="0" width="229.537" height="33.188">
+			</rect>
+		</svg>
+	</div>
+	<div id="Group_40">
+		<svg class="Input_BG_ca">
+			<rect id="Input_BG_ca" rx="0" ry="0" x="0" y="0" width="260" height="59">
+			</rect>
+		</svg>
+		<svg class="Rectangle_63_ca">
+			<rect id="Rectangle_63_ca" rx="0" ry="0" x="0" y="0" width="229.537" height="33.188">
+			</rect>
+		</svg>
+	</div>
+	<div id="Group_43">
+		<svg class="Input_BG_cc">
+			<rect id="Input_BG_cc" rx="0" ry="0" x="0" y="0" width="260" height="59">
+			</rect>
+		</svg>
+		<svg class="Rectangle_63_cd">
+			<rect id="Rectangle_63_cd" rx="0" ry="0" x="0" y="0" width="229.537" height="33.188">
+			</rect>
+		</svg>
+	</div>
+	<div id="Group_41">
+		<svg class="Input_BG_cf">
+			<rect id="Input_BG_cf" rx="0" ry="0" x="0" y="0" width="260" height="59">
+			</rect>
+		</svg>
+		<svg class="Rectangle_63_cg">
+			<rect id="Rectangle_63_cg" rx="0" ry="0" x="0" y="0" width="229.537" height="33.188">
+			</rect>
+		</svg>
+	</div>
+	<div id="Group_42">
+		<svg class="Input_BG_ci">
+			<rect id="Input_BG_ci" rx="0" ry="0" x="0" y="0" width="260" height="59">
+			</rect>
+		</svg>
+		<svg class="Rectangle_63_cj">
+			<rect id="Rectangle_63_cj" rx="0" ry="0" x="0" y="0" width="229.537" height="33.188">
+			</rect>
+		</svg>
+	</div>
+	<div id="Group_38">
+		<svg class="Input_BG_cl">
+			<rect id="Input_BG_cl" rx="0" ry="0" x="0" y="0" width="1032" height="58">
+			</rect>
+		</svg>
+		<svg class="Rectangle_63_cm">
+			<rect id="Rectangle_63_cm" rx="0" ry="0" x="0" y="0" width="911.084" height="32.625">
+			</rect>
+		</svg>
+	</div>
+	<div id="Group_37">
+		<svg class="Input_BG_co">
+			<rect id="Input_BG_co" rx="0" ry="0" x="0" y="0" width="484" height="62">
+			</rect>
+		</svg>
+		<svg class="Rectangle_63_cp">
+			<rect id="Rectangle_63_cp" rx="0" ry="0" x="0" y="0" width="427.292" height="34.875">
+			</rect>
+		</svg>
+	</div>
+	<div id="Accounts">
+		<span>Accounts</span>
+	</div>
+</div>
+
+<script src="./newAccountCreator.js"></script>
+
+</html>
