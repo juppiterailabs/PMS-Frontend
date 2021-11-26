@@ -1,8 +1,8 @@
 const loginForm = document.getElementById("login-form");
 const loginButton = document.getElementById("login-form-submit");
 const loginErrorMsg = document.getElementById("login-error-msg");
-const baseURL = "http://localhost:5005";
-const dashboardURL = "/index.html";
+const baseURL = "https://juppiterailabs.github.io";
+const dashboardURL = "/dashbard.html";
 
 function gotoRoute(route) {
   window.location.href = baseURL + route;

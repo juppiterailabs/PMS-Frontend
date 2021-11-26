@@ -1,8 +1,8 @@
 // frontend link redirects
-const baseURL = "http://localhost:5005";
+const baseURL = "https://juppiterailabs.github.io";
 const newAccountCreatorURL = "/newAccountCreator.html";
 const viewAllAccountsURL = "/viewAllAccounts.html";
-const dashboardURL = "/index.html";
+const dashboardURL = "/dashbard.html";
 const statusToPercent = { "in-progress": 50, "not-started": 0, completed: 100 };
 const defaultProjectStatus = "Not started";
 let nProjects = 0;
